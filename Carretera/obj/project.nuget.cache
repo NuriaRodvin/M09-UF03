@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRxGVjyVYBA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\nuria\\Desktop\\FP DAM\\PRACTICAS 2024-2025\\2º SEMESTRE\\M09-UF03\\codigo\\codigo\\Carretera\\Carretera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nuria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Vehiculo is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project Vehiculo supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Vehiculo",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
